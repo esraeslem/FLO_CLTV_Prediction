@@ -4,7 +4,7 @@ FLO'nun OmniChannel müşterileri için **BG/NBD** ve **Gamma-Gamma** modelleriy
 6 aylık **Customer Lifetime Value (CLTV)** tahmini yapan, müşterileri CLTV'ye
 göre segmentleyen uçtan uca bir analiz.
 
-> Miuul Data Science & Machine Learning Bootcamp — FLO CLTV Prediction Case
+> Miuul AI Data Scienctist Bootcamp — FLO CLTV Prediction Case
 > Study kapsamında hazırlanmıştır.
 
 ## İş Problemi
